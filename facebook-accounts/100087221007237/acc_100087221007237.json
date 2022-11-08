@@ -6,10 +6,10 @@
 	"id": "100087221007237",
 	"name": "",
 	"amountFriends": "",
-	"screenname": "Ana Liz Guimarães",
+	"screenname": "Betina Bahiense",
 	"birthdate": "1991 November 1",
-	"country": "",
-	"isAvatarExists": false,
+	"country": "Londrina",
+	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1668466421,
+			"expirationDate": 1668470550,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675637472.964848,
+			"expirationDate": 1675641663.646495,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0zWBBwE1KBFkPlNmE.AWU16Vz-oV58-yGSyPpAxSh3XxM.BjaYo7.dH.AAA.0.0.BjaYvh.AWUEluW8xJ8"
+			"value": "0zWBBwE1KBFkPlNmE.AWWcf6YaU95Lsb6tH29F82zgIZI.BjaYo7.dH.AAA.0.0.BjaZxA.AWWgtNXSK_Q"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667861598442%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1667865746921%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "07.11.2022 23:07 PREENCHIMENTO"
+	"lastEventDate": "08.11.2022 00:02 FARMING ONFIRE"
 }
